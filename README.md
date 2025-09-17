@@ -46,8 +46,7 @@ Open to collaborations in **AI research** and **backend projects**
 <h2> GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jersonnn&show_icons=true&count_private=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jersonnn&layout=compact&theme=tokyonight" height="165">
+  <img src="https://custom-github-stats-beryl.vercel.app/api/github-readme?username=Jersonnn&format=svg&includePrivate=true" height="700">
 </p>  
 
 ---
