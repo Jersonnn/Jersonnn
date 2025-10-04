@@ -43,14 +43,6 @@ Open to collaborations in **AI research** and **backend projects**
 
 ---
 
-<h2> GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://custom-github-stats-beryl.vercel.app/api/github-readme?username=Jersonnn&format=svg&includePrivate=true" height="700">
-</p>  
-
----
-
 <h2> Featured Project</h2>
 
 **AI Playground (Coming Soon)** – Experiments with NLP, Hugging Face models, and prompt engineering  
